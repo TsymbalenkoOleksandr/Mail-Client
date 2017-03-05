@@ -1,0 +1,53 @@
+.active {
+  font-weight: bold;
+}
+
+.vertical {
+  margin-top: 30px;
+}
+
+.container {
+  width: auto;
+  max-width:1160px;
+}
+
+.header_img{
+  background-image: url(../../img/header.png);
+  width: 100%;
+  height: 500px;
+}
+
+.bar_offset {
+  margin-left: 4%;
+}
+
+.main_bg{
+  padding-top: 35px;
+  min-height: 500px;
+}
+
+.header_text {
+  display: inline-block;
+  text-align: center;
+  font-size: 60px;
+  color: white;
+  padding: 30px;
+  border: 5px solid white;
+}
+
+.header_position {
+  position: absolute;
+  top: 50px;
+  left: 230px
+}
+
+.footer{
+  width: 100%;
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+.text-muted {
+  text-align: center;
+  margin: 20px 0;
+}

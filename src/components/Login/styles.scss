@@ -1,0 +1,33 @@
+body {
+  background: -webkit-radial-gradient(#76BBEF, #292DA3); 
+  background: -o-radial-gradient(#76BBEF, #292DA3); 
+  background: -moz-radial-gradient(#76BBEF, #292DA3);
+  background: radial-gradient(#76BBEF, #292DA3);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.centered {
+  position: fixed;
+  border: 2px solid black;
+  padding: 13px 20px 20px 20px;
+  width: 300px;
+  top: 30%;
+  left: 40%;
+  background: #3674BF;
+}
+
+.input_align {
+  padding-top: 10px;
+  display: inline;
+}
+
+.font_color {
+  color: #ACD0FB;
+}
+
+.form_button {
+  width: 257px;
+  margin-top: 15px;
+  background: #3584E3;
+}
